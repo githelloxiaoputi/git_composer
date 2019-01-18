@@ -17,3 +17,5 @@
 	库的自动加载
 8.	更改为中国镜像 命令行直接执行
 	composer config -g repo.packagist composer https://packagist.phpcomposer.com
+9.	更新composer本身
+	composer self-update
